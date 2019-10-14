@@ -1,7 +1,7 @@
 {
-  "name": "twinkle_cats_signup_singin",
+  "name": "signup_singin",
   "version": "1.0.0",
-  "description": "signup & signin",
+  "description": "signup & signin using node.js & mongodb",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
